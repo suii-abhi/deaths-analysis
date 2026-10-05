@@ -9,7 +9,7 @@ Analysis of global cardiovascular death data (2015-2019).
 
 **Files:**
 - `cardio_death.csv` - Cleaned data
-- [Tableau Dashboard](https://public.tableau.com/authoring/CardiovascularDeathsAnalysis/Sheet1#1)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/abhishek.poudel3307/viz/CardiovascularDeathsAnalysis/Sheet1)
 
 **Key Finding:**
 China has the highest cardiovascular deaths globally, followed by India and the USA.
